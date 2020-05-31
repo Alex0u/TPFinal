@@ -17,8 +17,8 @@ public class Segment extends Figure{
 		this.longueur = longueur;
 	}
 	
-	public Segment(Vecteur origine, Vecteur extremite) { // quoi faire ?
-		
-	}
+	/* public Segment(Vecteur origine, Vecteur extremite) { // quoi faire ?
+
+	}*/
 	
 }
